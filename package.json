@@ -1,0 +1,30 @@
+{
+    "name": "patata-back",
+    "version": "1.0.0",
+    "description": "Aprendiendo back-end Node con patatas ¡con patatas todo se entiende mejor!",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Yevestevez/patata-back.git"
+    },
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/Yevestevez/patata-back/issues"
+    },
+    "homepage": "https://github.com/Yevestevez/patata-back#readme",
+    "prettier": {
+        "singleQuote": true
+    },
+    "devDependencies": {
+        "@eslint/js": "^10.0.1",
+        "@types/node": "^25.5.0",
+        "eslint": "^10.0.3",
+        "globals": "^17.4.0",
+        "prettier": "^3.8.1",
+        "typescript": "^5.9.3",
+        "typescript-eslint": "^8.57.1"
+    }
+}
